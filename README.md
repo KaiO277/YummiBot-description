@@ -102,4 +102,46 @@ Dự án sử dụng Docker Compose để dễ dàng triển khai và chạy tr�
 - **Security**: JWT auth, CORS, media protection.
 - **User experience**: Responsive UI, admin dashboard với analytics.
 
-Dự án này phù hợp cho việc phát triển ứng dụng thực phẩm thông minh, có thể mở rộng thêm tính năng như thanh toán, delivery, hoặc tích hợp với thiết bị IoT.
+## Demo
+
+- **Trang chủ**
+  ![](images/home.png)
+
+- **Công Thức**
+  ![](images/recipes.png)
+
+- **Tìm Kiếm**
+  ![](images/search.png)
+
+- **Profile user**
+  ![](images/profile.png)
+
+- **Admin**
+  ![](images/localhost_5173_admin.png)
+
+---
+
+## Developer/Team
+
+### Chân thành cảm ơn:
+
+- **Font-End**: [@Zatata](https://github.com/ytobilocal)
+- **Back-End & AI**: [@KaiO](https://github.com/KaiO277)
+
+---
+
+<p align="center">
+   Author: KaiO
+</p>
+
+<p align="center">
+   Email: nghiatran1527@gmail.com
+</p>
+
+---
+
+<p align="center">
+  🚀 Built with passion by <a href="https://github.com/username">KaiO</a><br>
+  📜 Licensed under the <a href="LICENSE">MIT License</a><br>
+  © 2026
+</p>
