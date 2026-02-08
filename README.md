@@ -139,7 +139,7 @@ Dự án sử dụng Docker Compose để dễ dàng triển khai và chạy tr�
 </p>
 
 <p align="center">
-   Facebook: [Trần Nghĩa Công]([https://www.google.com](https://www.facebook.com/imKaiO7))
+   Facebook: [Trần Nghĩa Công](https://www.facebook.com/imKaiO7)
 </p>
 
 ---
