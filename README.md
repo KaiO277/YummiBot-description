@@ -138,6 +138,10 @@ Dự án sử dụng Docker Compose để dễ dàng triển khai và chạy tr�
    Email: nghiatran1527@gmail.com
 </p>
 
+<p align="center">
+   Facebook: [Trần Nghĩa Công]([https://www.google.com](https://www.facebook.com/imKaiO7))
+</p>
+
 ---
 
 <p align="center">
