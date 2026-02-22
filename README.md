@@ -129,9 +129,11 @@ Dự án sử dụng Docker Compose để dễ dàng triển khai và chạy tr�
 - **Back-End & AI**: [@KaiO](https://github.com/KaiO277)
 
 ---
+# About the author
+
 
 <p align="center">
-   Author: KaiO
+   LinkedIn profile of KaiO: <a href="https://www.linkedin.com/in/kai-o-876028269/">KaiO</a>.
 </p>
 
 <p align="center">
